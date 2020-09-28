@@ -21,9 +21,16 @@ $ git commit -m "Add hello world script by php"
 [master d23b909] Add hello qorld script by php
  1 file changed, 3 insertions(+)
    creat mode 100644 hello_world.php
-$git log
+$ git log
    commit d23b909caad5d4
    Author: hirocastest <hohtsuka@gmail.com>
    Date: 2020
    Add hello world script by php
-   
+$ git push
+   Counting objects: 4,done.
+   Delta compression using up to 4 threads.
+   Compressing objects: 100% (2/2), done.
+   Writing objects: 100% (3/3),328 bytee,done.
+   Total 3 (delta 0),reused 0 (delta 0)
+   To git@github.com:Miku3250/Hello-World.git
+   46ff713..d23b909 master->master
